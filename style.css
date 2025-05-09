@@ -16,7 +16,7 @@
 
 .logo{
     display: flex;
-    height: clamp(4.8vw, 9.9rem , vw);
+    height: clamp(4.8vw, 9.9rem , 7vw);
     justify-content: center;
     padding: 20px;
 }
